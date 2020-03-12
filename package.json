@@ -1,0 +1,30 @@
+{
+  "name": "pug-sass-test-kaihen",
+  "version": "1.0.0",
+  "description": "GulpでPugを実行するためのテスト環境です",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "gulp",
+    "pug",
+    "Sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.1",
+    "gulp-data": "^1.3.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.0.9",
+    "postcss-flexbugs-fixes": "^4.1.0"
+  }
+}
